@@ -28,7 +28,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@m.sobrino.estevez/planning-a-trip-to-seattle-to-reduce-your-90s-grunge-nostalgia-find-out-your-best-airbnb-option-3c1db0c7efb7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
